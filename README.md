@@ -12,3 +12,6 @@ After going through the entire dictionary
 **The answer is displayed as**
 
 ![image of output](/Images/Ans.png)
+
+
+*Must download glove 50d embedding matrix along with this repo from [here](https://www.kaggle.com/watts2/glove6b50dtxt)*
