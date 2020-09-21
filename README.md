@@ -5,8 +5,10 @@ Based on the relation between the first 2 words the algorithm will find the diff
 I have used a pre-trained Global vector for word representation that has word and its embeddings. Each word has 50 values and there are a total of 4,00,000 words in it's vocabulary.
 
 **The Input can be given in form of**
+
 ![image of input](/Images/Ques.png)
 
 After going through the entire dictionary 
 **The answer is displayed as**
+
 ![image of output](/Images/Ans.png)
