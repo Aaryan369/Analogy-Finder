@@ -14,5 +14,6 @@ After going through the entire dictionary
 ![image of output](/Images/Ans.png)
 
 
-*Must download glove 50d embedding matrix along with this repo from [here](https://www.kaggle.com/watts2/glove6b50dtxt) and rename the file as "glove.txt" after extraction*
+*Must download glove 50d embedding matrix along with this repo from [here](https://www.kaggle.com/watts2/glove6b50dtxt) and rename the file as "glove.txt" after extraction.*
+
 Place all the downloaded files in same folder.
